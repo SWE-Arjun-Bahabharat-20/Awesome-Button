@@ -1,0 +1,24 @@
+{
+  "name": "react-native-ab-awesome-button",
+  "version": "1.0.2",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-native": "^0.72.8",
+    "react": "^19.1.0",
+    "react-native": "^0.80.0",
+    "typescript": "^5.8.3"
+  }
+}
