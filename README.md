@@ -7,17 +7,9 @@ A highly customizable, feature-rich button component for React Native applicatio
 [![version](https://img.shields.io/badge/version-4.2.1-blue.svg)](https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button)
 
 
-<p align="center">
-  <img src="src/components/assets/screenshots/Image1.jpg" alt="Awesome Button Demo" width="300" />
-</p>
-
-<p align="center">
-  <img src="src/components/assets/screenshots/Image2.jpg" alt="Awesome Button Demo" width="300" />
-</p>
-
-<p align="center">
-  <img src="src/components/assets/screenshots/Image3.jpg" alt="Awesome Button Demo" width="300" />
-</p>
+[AwesomeButton Demo](https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button/blob/master/src/components/assets/screenshots/Image1.jpg)
+[AwesomeButton Demo](https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button/blob/master/src/components/assets/screenshots/Image2.jpg)
+[AwesomeButton Demo](https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button/blob/master/src/components/assets/screenshots/Image3.jpg)
 
 ## Features
 
@@ -335,7 +327,7 @@ Or use the more detailed style props:
 
 ## Version History
 
-### Version 1.0.0
+### Version 1.0.3
 - Added animation support with customizable intensity
 - Added custom border styles (solid, dotted, dashed)
 - Added support for custom border radius values
