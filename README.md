@@ -7,9 +7,13 @@ A highly customizable, feature-rich button component for React Native applicatio
 [![version](https://img.shields.io/badge/version-4.2.1-blue.svg)](https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button)
 
 
-[AwesomeButton Demo](https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button/blob/master/src/components/assets/screenshots/Image1.jpg)
-[AwesomeButton Demo](https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button/blob/master/src/components/assets/screenshots/Image2.jpg)
-[AwesomeButton Demo](https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button/blob/master/src/components/assets/screenshots/Image3.jpg)
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/SWE-Arjun-Bahabharat-20/Awesome-Button/master/src/components/assets/screenshots/Image1.jpg" width="250" alt="Awesome Button Demo"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SWE-Arjun-Bahabharat-20/Awesome-Button/master/src/components/assets/screenshots/Image2.jpg" width="250" alt="Awesome Button Demo"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SWE-Arjun-Bahabharat-20/Awesome-Button/master/src/components/assets/screenshots/Image3.jpg" width="250" alt="Awesome Button Demo"/></td>
+  </tr>
+</table>
 
 ## Features
 
@@ -327,7 +331,7 @@ Or use the more detailed style props:
 
 ## Version History
 
-### Version 1.0.3
+### Version 1.0.7
 - Added animation support with customizable intensity
 - Added custom border styles (solid, dotted, dashed)
 - Added support for custom border radius values

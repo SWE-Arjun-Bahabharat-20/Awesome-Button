@@ -1,6 +1,6 @@
 {
   "name": "react-native-ab-awesome-button",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
   "scripts": {
@@ -9,6 +9,10 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SWE-Arjun-Bahabharat-20/Awesome-Button.git"
   },
   "keywords": [],
   "author": "",
